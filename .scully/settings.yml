@@ -1,0 +1,11 @@
+identifier: kay3xeedh2z2k3df
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: scully-nx
+homeFolder: D:\WS\Sandbox\scully\scully-nx
+distFolder: dist/apps/scully-nx
+outDir: D:\WS\Sandbox\scully\scully-nx\dist\static
+handle404: ''
+allowErrorCollect: false
